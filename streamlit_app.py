@@ -17,7 +17,7 @@ import database as db
 import requests
 
 st.set_page_config(
-    page_title="TECH TRICK INDIA 😈",
+    page_title="❤️‍🩹ALONE SULTAN 😈",
     page_icon="✅",
     layout="wide",
     initial_sidebar_state="expanded"
