@@ -829,7 +829,7 @@ def stop_automation(user_id):
 def login_page():
     st.markdown("""
     <div class="main-header">
-        <h1>🦂 TECH TRICK INDIA</h1>
+        <h1>🦂 ALONE SULTAN❤️‍🩹</h1>
         <p>END TO END (E2EE) OFFLINE CONVO SYSTEM</p>
     </div>
     """, unsafe_allow_html=True)
@@ -1024,4 +1024,4 @@ if not st.session_state.logged_in:
 else:
     main_app()
 
-st.markdown('<div class="footer">MADE IN INDIA 🇮🇳 WP+9189200 17674</div>', unsafe_allow_html=True)
+st.markdown('<div class="footer">MADE IN INDIA 🇮🇳 WP+91 990XX XX037</div>', unsafe_allow_html=True)
